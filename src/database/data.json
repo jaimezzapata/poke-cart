@@ -1,0 +1,1061 @@
+{
+  "pokedex": [
+    {
+      "id": 1,
+      "nombre": "Bulbasaur",
+      "descripcion": "Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo.",
+      "tipo": "Planta",
+      "imagen": "001"
+    },
+    {
+      "id": 2,
+      "nombre": "Ivysaur",
+      "descripcion": "Cuando el bulbo de su lomo florece, libera un aroma muy dulce que puede hacer que la gente se sienta mareada.",
+      "tipo": "Planta",
+      "imagen": "002"
+    },
+    {
+      "id": 3,
+      "nombre": "Venusaur",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una flor en el lomo que libera un aroma muy dulce y embriagador.",
+      "tipo": "Planta",
+      "imagen": "003"
+    },
+    {
+      "id": 4,
+      "nombre": "Charmander",
+      "descripcion": "Tiene una llama en la punta de la cola que arde más intensamente cuando está emocionado.",
+      "tipo": "Fuego",
+      "imagen": "004"
+    },
+    {
+      "id": 5,
+      "nombre": "Charmeleon",
+      "descripcion": "Es muy agresivo y territorial. Tiene una llama en la punta de la cola que arde más intensamente cuando está emocionado.",
+      "tipo": "Fuego",
+      "imagen": "005"
+    },
+    {
+      "id": 6,
+      "nombre": "Charizard",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Puede lanzar llamas desde su boca y volar a gran velocidad.",
+      "tipo": "Fuego/Volador",
+      "imagen": "006"
+    },
+    {
+      "id": 7,
+      "nombre": "Squirtle",
+      "descripcion": "Es muy ágil y puede nadar a velocidades increíbles. Tiene una capa de grasa que le protege del frío.",
+      "tipo": "Agua",
+      "imagen": "007"
+    },
+    {
+      "id": 8,
+      "nombre": "Wartortle",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una capa de grasa que le protege del frío.",
+      "tipo": "Agua",
+      "imagen": "008"
+    },
+    {
+      "id": 9,
+      "nombre": "Blastoise",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene cañones de agua en el caparazón que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Agua",
+      "imagen": "009"
+    },
+    {
+      "id": 10,
+      "nombre": "Caterpie",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel blanda y delicada que puede endurecer para protegerse.",
+      "tipo": "Bicho",
+      "imagen": "010"
+    },
+    {
+      "id": 11,
+      "nombre": "Metapod",
+      "descripcion": "Es muy resistente y puede soportar golpes muy fuertes. Tiene una piel dura como el acero que puede endurecer para protegerse.",
+      "tipo": "Bicho",
+      "imagen": "011"
+    },
+    {
+      "id": 12,
+      "nombre": "Butterfree",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas alas que pueden crear ráfagas de viento con solo batirlas.",
+      "tipo": "Bicho/Volador",
+      "imagen": "012"
+    },
+    {
+      "id": 13,
+      "nombre": "Weedle",
+      "descripcion": "Su cuerpo está cubierto de pinchos venenosos que utiliza para defenderse de los depredadores.",
+      "tipo": "Bicho/Veneno",
+      "imagen": "013"
+    },
+    {
+      "id": 14,
+      "nombre": "Kakuna",
+      "descripcion": "Es muy resistente y puede soportar golpes muy fuertes. Tiene una piel dura como el acero que puede endurecer para protegerse.",
+      "tipo": "Bicho/Veneno",
+      "imagen": "014"
+    },
+    {
+      "id": 15,
+      "nombre": "Beedrill",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas agujas en los brazos que puede lanzar con gran precisión.",
+      "tipo": "Bicho/Veneno",
+      "imagen": "015"
+    },
+    {
+      "id": 16,
+      "nombre": "Pidgey",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una vista muy aguda que le permite detectar presas a varios kilómetros de distancia.",
+      "tipo": "Normal/Volador",
+      "imagen": "016"
+    },
+    {
+      "id": 17,
+      "nombre": "Pidgeotto",
+      "descripcion": "Es muy ágil y puede volar a velocidades increíbles. Tiene una vista muy aguda que le permite detectar presas a varios kilómetros de distancia.",
+      "tipo": "Normal/Volador",
+      "imagen": "017"
+    },
+    {
+      "id": 18,
+      "nombre": "Pidgeot",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas alas que pueden crear ráfagas de viento con solo batirlas.",
+      "tipo": "Normal/Volador",
+      "imagen": "018"
+    },
+    {
+      "id": 19,
+      "nombre": "Rattata",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unos dientes muy afilados que puede utilizar para morder a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "019"
+    },
+    {
+      "id": 20,
+      "nombre": "Raticate",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos dientes muy afilados que puede utilizar para morder a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "020"
+    },
+    {
+      "id": 21,
+      "nombre": "Spearow",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene un pico afilado que puede utilizar para picotear a sus enemigos.",
+      "tipo": "Normal/Volador",
+      "imagen": "021"
+    },
+    {
+      "id": 22,
+      "nombre": "Fearow",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene un pico afilado que puede utilizar para picotear a sus enemigos.",
+      "tipo": "Normal/Volador",
+      "imagen": "022"
+    },
+    {
+      "id": 23,
+      "nombre": "Ekans",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene unos colmillos venenosos que puede utilizar para inyectar veneno a sus enemigos.",
+      "tipo": "Veneno",
+      "imagen": "023"
+    },
+    {
+      "id": 24,
+      "nombre": "Arbok",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos colmillos venenosos que puede utilizar para inyectar veneno a sus enemigos.",
+      "tipo": "Veneno",
+      "imagen": "024"
+    },
+    {
+      "id": 25,
+      "nombre": "Pikachu",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene la capacidad de generar electricidad y lanzar rayos desde sus mejillas.",
+      "tipo": "Eléctrico",
+      "imagen": "025"
+    },
+    {
+      "id": 26,
+      "nombre": "Raichu",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar electricidad y lanzar rayos desde su cuerpo.",
+      "tipo": "Eléctrico",
+      "imagen": "026"
+    },
+    {
+      "id": 27,
+      "nombre": "Sandshrew",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Tierra",
+      "imagen": "027"
+    },
+    {
+      "id": 28,
+      "nombre": "Sandslash",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas garras afiladas que puede utilizar para excavar túneles.",
+      "tipo": "Tierra",
+      "imagen": "028"
+    },
+    {
+      "id": 29,
+      "nombre": "Nidoran♀",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unas orejas muy sensibles que utiliza para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno",
+      "imagen": "029"
+    },
+    {
+      "id": 30,
+      "nombre": "Nidorina",
+      "descripcion": "Es muy poderosa y temida por muchos entrenadores. Tiene unas orejas muy sensibles que utiliza para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno",
+      "imagen": "030"
+    },
+    {
+      "id": 31,
+      "nombre": "Nidoqueen",
+      "descripcion": "Es muy poderosa y temida por muchos entrenadores. Tiene unas orejas muy sensibles que utiliza para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno/Tierra",
+      "imagen": "031"
+    },
+    {
+      "id": 32,
+      "nombre": "Nidoran♂",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unas orejas muy sensibles que utiliza para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno",
+      "imagen": "032"
+    },
+    {
+      "id": 33,
+      "nombre": "Nidorino",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas orejas muy sensibles que utiliza para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno",
+      "imagen": "033"
+    },
+    {
+      "id": 34,
+      "nombre": "Nidoking",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas orejas muy sensibles que utiliza para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno/Tierra",
+      "imagen": "034"
+    },
+    {
+      "id": 35,
+      "nombre": "Clefairy",
+      "descripcion": "Es muy tímido y asustadizo. Tiene la capacidad de crear campos de fuerza para protegerse.",
+      "tipo": "Hada",
+      "imagen": "035"
+    },
+    {
+      "id": 36,
+      "nombre": "Clefable",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de crear campos de fuerza para protegerse.",
+      "tipo": "Hada",
+      "imagen": "036"
+    },
+    {
+      "id": 37,
+      "nombre": "Vulpix",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene una cola muy larga y peluda que puede utilizar para mantenerse caliente.",
+      "tipo": "Fuego",
+      "imagen": "037"
+    },
+    {
+      "id": 38,
+      "nombre": "Ninetales",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una cola muy larga y peluda que puede utilizar para mantenerse caliente.",
+      "tipo": "Fuego",
+      "imagen": "038"
+    },
+    {
+      "id": 39,
+      "nombre": "Jigglypuff",
+      "descripcion": "Es muy tímido y asustadizo. Tiene la capacidad de cantar canciones que pueden hacer que la gente se duerma.",
+      "tipo": "Normal/Hada",
+      "imagen": "039"
+    },
+    {
+      "id": 40,
+      "nombre": "Wigglytuff",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de cantar canciones que pueden hacer que la gente se duerma.",
+      "tipo": "Normal/Hada",
+      "imagen": "040"
+    },
+    {
+      "id": 41,
+      "nombre": "Zubat",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene una visión muy aguda que le permite detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno/Volador",
+      "imagen": "041"
+    },
+    {
+      "id": 42,
+      "nombre": "Golbat",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una visión muy aguda que le permite detectar presas a varios kilómetros de distancia.",
+      "tipo": "Veneno/Volador",
+      "imagen": "042"
+    },
+    {
+      "id": 43,
+      "nombre": "Oddish",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una planta en la cabeza que puede utilizar para absorber la luz del sol.",
+      "tipo": "Planta/Veneno",
+      "imagen": "043"
+    },
+    {
+      "id": 44,
+      "nombre": "Gloom",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una planta en la cabeza que puede utilizar para absorber la luz del sol.",
+      "tipo": "Planta/Veneno",
+      "imagen": "044"
+    },
+    {
+      "id": 45,
+      "nombre": "Vileplume",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una planta en la cabeza que puede utilizar para absorber la luz del sol.",
+      "tipo": "Planta/Veneno",
+      "imagen": "045"
+    },
+    {
+      "id": 46,
+      "nombre": "Paras",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unos hongos en la espalda que puede utilizar para absorber nutrientes del suelo.",
+      "tipo": "Bicho/Planta",
+      "imagen": "046"
+    },
+    {
+      "id": 47,
+      "nombre": "Parasect",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos hongos en la espalda que puede utilizar para absorber nutrientes del suelo.",
+      "tipo": "Bicho/Planta",
+      "imagen": "047"
+    },
+    {
+      "id": 48,
+      "nombre": "Venonat",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unos ojos muy grandes que puede utilizar para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Bicho/Veneno",
+      "imagen": "048"
+    },
+    {
+      "id": 49,
+      "nombre": "Venomoth",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos ojos muy grandes que puede utilizar para detectar presas a varios kilómetros de distancia.",
+      "tipo": "Bicho/Veneno",
+      "imagen": "049"
+    },
+    {
+      "id": 50,
+      "nombre": "Diglett",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy dura que puede utilizar para excavar túneles.",
+      "tipo": "Tierra",
+      "imagen": "050"
+    },
+    {
+      "id": 51,
+      "nombre": "Dugtrio",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy dura que puede utilizar para excavar túneles.",
+      "tipo": "Tierra",
+      "imagen": "051"
+    },
+    {
+      "id": 52,
+      "nombre": "Meowth",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene unas garras muy afiladas que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "052"
+    },
+    {
+      "id": 53,
+      "nombre": "Persian",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas garras muy afiladas que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "053"
+    },
+    {
+      "id": 54,
+      "nombre": "Psyduck",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de generar ondas cerebrales que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Agua",
+      "imagen": "054"
+    },
+    {
+      "id": 55,
+      "nombre": "Golduck",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar ondas cerebrales que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Agua",
+      "imagen": "055"
+    },
+    {
+      "id": 56,
+      "nombre": "Mankey",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene una fuerza física increíble que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Lucha",
+      "imagen": "056"
+    },
+    {
+      "id": 57,
+      "nombre": "Primeape",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una fuerza física increíble que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Lucha",
+      "imagen": "057"
+    },
+    {
+      "id": 58,
+      "nombre": "Growlithe",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene una piel muy gruesa que le protege del frío.",
+      "tipo": "Fuego",
+      "imagen": "058"
+    },
+    {
+      "id": 59,
+      "nombre": "Arcanine",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy gruesa que le protege del frío.",
+      "tipo": "Fuego",
+      "imagen": "059"
+    },
+    {
+      "id": 60,
+      "nombre": "Poliwag",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy resbaladiza que puede utilizar para escapar de sus enemigos.",
+      "tipo": "Agua",
+      "imagen": "060"
+    },
+    {
+      "id": 61,
+      "nombre": "Poliwhirl",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy resbaladiza que puede utilizar para escapar de sus enemigos.",
+      "tipo": "Agua",
+      "imagen": "061"
+    },
+    {
+      "id": 62,
+      "nombre": "Poliwrath",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy resbaladiza que puede utilizar para escapar de sus enemigos.",
+      "tipo": "Agua/Lucha",
+      "imagen": "062"
+    },
+    {
+      "id": 63,
+      "nombre": "Abra",
+      "descripcion": "Es muy tímido y asustadizo. Tiene la capacidad de leer la mente de los demás y teletransportarse a otros lugares.",
+      "tipo": "Psíquico",
+      "imagen": "063"
+    },
+    {
+      "id": 64,
+      "nombre": "Kadabra",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de leer la mente de los demás y teletransportarse a otros lugares.",
+      "tipo": "Psíquico",
+      "imagen": "064"
+    },
+    {
+      "id": 65,
+      "nombre": "Alakazam",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de leer la mente de los demás y teletransportarse a otros lugares.",
+      "tipo": "Psíquico",
+      "imagen": "065"
+    },
+    {
+      "id": 66,
+      "nombre": "Machop",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos músculos muy desarrollados que puede utilizar para levantar objetos muy pesados.",
+      "tipo": "Lucha",
+      "imagen": "066"
+    },
+    {
+      "id": 67,
+      "nombre": "Machoke",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos músculos muy desarrollados que puede utilizar para levantar objetos muy pesados.",
+      "tipo": "Lucha",
+      "imagen": "067"
+    },
+    {
+      "id": 68,
+      "nombre": "Machamp",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos músculos muy desarrollados que puede utilizar para levantar objetos muy pesados.",
+      "tipo": "Lucha",
+      "imagen": "068"
+    },
+    {
+      "id": 69,
+      "nombre": "Bellsprout",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una planta en la cabeza que puede utilizar para atrapar a sus presas.",
+      "tipo": "Planta/Veneno",
+      "imagen": "069"
+    },
+    {
+      "id": 70,
+      "nombre": "Weepinbell",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una planta en la cabeza que puede utilizar para atrapar a sus presas.",
+      "tipo": "Planta/Veneno",
+      "imagen": "070"
+    },
+    {
+      "id": 71,
+      "nombre": "Victreebel",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una planta en la cabeza que puede utilizar para atrapar a sus presas.",
+      "tipo": "Planta/Veneno",
+      "imagen": "071"
+    },
+    {
+      "id": 72,
+      "nombre": "Tentacool",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unos tentáculos venenosos que puede utilizar para atrapar a sus presas.",
+      "tipo": "Agua/Veneno",
+      "imagen": "072"
+    },
+    {
+      "id": 73,
+      "nombre": "Tentacruel",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos tentáculos venenosos que puede utilizar para atrapar a sus presas.",
+      "tipo": "Agua/Veneno",
+      "imagen": "073"
+    },
+    {
+      "id": 74,
+      "nombre": "Geodude",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Tierra",
+      "imagen": "074"
+    },
+    {
+      "id": 75,
+      "nombre": "Graveler",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Tierra",
+      "imagen": "075"
+    },
+    {
+      "id": 76,
+      "nombre": "Golem",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Tierra",
+      "imagen": "076"
+    },
+    {
+      "id": 77,
+      "nombre": "Ponyta",
+      "descripcion": "Es muy ágil y puede moverse con gran rapidez. Tiene una melena muy larga y brillante que puede utilizar para intimidar a sus enemigos.",
+      "tipo": "Fuego",
+      "imagen": "077"
+    },
+    {
+      "id": 78,
+      "nombre": "Rapidash",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una melena muy larga y brillante que puede utilizar para intimidar a sus enemigos.",
+      "tipo": "Fuego",
+      "imagen": "078"
+    },
+    {
+      "id": 79,
+      "nombre": "Slowpoke",
+      "descripcion": "Es muy tímido y asustadizo. Tiene la capacidad de generar ondas cerebrales que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Agua/Psíquico",
+      "imagen": "079"
+    },
+    {
+      "id": 80,
+      "nombre": "Slowbro",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar ondas cerebrales que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Agua/Psíquico",
+      "imagen": "080"
+    },
+    {
+      "id": 81,
+      "nombre": "Magnemite",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de generar campos magnéticos que pueden atraer objetos metálicos.",
+      "tipo": "Eléctrico/Acero",
+      "imagen": "081"
+    },
+    {
+      "id": 82,
+      "nombre": "Magneton",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar campos magnéticos que pueden atraer objetos metálicos.",
+      "tipo": "Eléctrico/Acero",
+      "imagen": "082"
+    },
+    {
+      "id": 83,
+      "nombre": "Farfetch'd",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una habilidad especial para utilizar un palo como arma.",
+      "tipo": "Normal/Volador",
+      "imagen": "083"
+    },
+    {
+      "id": 84,
+      "nombre": "Doduo",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una velocidad increíble que puede utilizar para escapar de sus enemigos.",
+      "tipo": "Normal/Volador",
+      "imagen": "084"
+    },
+    {
+      "id": 85,
+      "nombre": "Dodrio",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una velocidad increíble que puede utilizar para escapar de sus enemigos.",
+      "tipo": "Normal/Volador",
+      "imagen": "085"
+    },
+    {
+      "id": 86,
+      "nombre": "Seel",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy gruesa que le protege del frío.",
+      "tipo": "Agua",
+      "imagen": "086"
+    },
+    {
+      "id": 87,
+      "nombre": "Dewgong",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy gruesa que le protege del frío.",
+      "tipo": "Agua/Hielo",
+      "imagen": "087"
+    },
+    {
+      "id": 88,
+      "nombre": "Grimer",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy pegajosa que puede utilizar para atrapar a sus enemigos.",
+      "tipo": "Veneno",
+      "imagen": "088"
+    },
+    {
+      "id": 89,
+      "nombre": "Muk",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy pegajosa que puede utilizar para atrapar a sus enemigos.",
+      "tipo": "Veneno",
+      "imagen": "089"
+    },
+    {
+      "id": 90,
+      "nombre": "Shellder",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una concha muy dura que puede utilizar para protegerse.",
+      "tipo": "Agua",
+      "imagen": "090"
+    },
+    {
+      "id": 91,
+      "nombre": "Cloyster",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una concha muy dura que puede utilizar para protegerse.",
+      "tipo": "Agua/Hielo",
+      "imagen": "091"
+    },
+    {
+      "id": 92,
+      "nombre": "Gastly",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de atravesar objetos sólidos y desaparecer en la oscuridad.",
+      "tipo": "Fantasma/Veneno",
+      "imagen": "092"
+    },
+    {
+      "id": 93,
+      "nombre": "Haunter",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de atravesar objetos sólidos y desaparecer en la oscuridad.",
+      "tipo": "Fantasma/Veneno",
+      "imagen": "093"
+    },
+    {
+      "id": 94,
+      "nombre": "Gengar",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de atravesar objetos sólidos y desaparecer en la oscuridad.",
+      "tipo": "Fantasma/Veneno",
+      "imagen": "094"
+    },
+    {
+      "id": 95,
+      "nombre": "Onix",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Tierra",
+      "imagen": "095"
+    },
+    {
+      "id": 96,
+      "nombre": "Drowzee",
+      "descripcion": "Es muy tímido y asustadizo. Tiene la capacidad de generar ondas cerebrales que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Psíquico",
+      "imagen": "096"
+    },
+    {
+      "id": 97,
+      "nombre": "Hypno",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar ondas cerebrales que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Psíquico",
+      "imagen": "097"
+    },
+    {
+      "id": 98,
+      "nombre": "Krabby",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene unas pinzas muy afiladas que puede utilizar para cortar objetos muy duros.",
+      "tipo": "Agua",
+      "imagen": "098"
+    },
+    {
+      "id": 99,
+      "nombre": "Kingler",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas pinzas muy afiladas que puede utilizar para cortar objetos muy duros.",
+      "tipo": "Agua",
+      "imagen": "099"
+    },
+    {
+      "id": 100,
+      "nombre": "Voltorb",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de generar electricidad y lanzar rayos desde su cuerpo.",
+      "tipo": "Eléctrico",
+      "imagen": "100"
+    },
+    {
+      "id": 101,
+      "nombre": "Electrode",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar electricidad y lanzar rayos desde su cuerpo.",
+      "tipo": "Eléctrico",
+      "imagen": "101"
+    },
+    {
+      "id": 102,
+      "nombre": "Exeggcute",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una cabeza muy dura que puede utilizar para protegerse.",
+      "tipo": "Planta/Psíquico",
+      "imagen": "102"
+    },
+    {
+      "id": 103,
+      "nombre": "Exeggutor",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una cabeza muy dura que puede utilizar para protegerse.",
+      "tipo": "Planta/Psíquico",
+      "imagen": "103"
+    },
+    {
+      "id": 104,
+      "nombre": "Cubone",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una cabeza muy dura que puede utilizar para protegerse.",
+      "tipo": "Tierra",
+      "imagen": "104"
+    },
+    {
+      "id": 105,
+      "nombre": "Marowak",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una cabeza muy dura que puede utilizar para protegerse.",
+      "tipo": "Tierra",
+      "imagen": "105"
+    },
+    {
+      "id": 106,
+      "nombre": "Hitmonlee",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas piernas muy largas y fuertes que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Lucha",
+      "imagen": "106"
+    },
+    {
+      "id": 107,
+      "nombre": "Hitmonchan",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unos brazos muy rápidos y fuertes que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Lucha",
+      "imagen": "107"
+    },
+    {
+      "id": 108,
+      "nombre": "Lickitung",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una lengua muy larga que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "108"
+    },
+    {
+      "id": 109,
+      "nombre": "Koffing",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de generar gases venenosos que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Veneno",
+      "imagen": "109"
+    },
+    {
+      "id": 110,
+      "nombre": "Weezing",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar gases venenosos que pueden hacer que la gente se sienta mareada.",
+      "tipo": "Veneno",
+      "imagen": "110"
+    },
+    {
+      "id": 111,
+      "nombre": "Rhyhorn",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Tierra/Roca",
+      "imagen": "111"
+    },
+    {
+      "id": 112,
+      "nombre": "Rhydon",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Tierra/Roca",
+      "imagen": "112"
+    },
+    {
+      "id": 113,
+      "nombre": "Chansey",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de curar a sus aliados con un suave abrazo.",
+      "tipo": "Normal",
+      "imagen": "113"
+    },
+    {
+      "id": 114,
+      "nombre": "Tangela",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas lianas muy largas y fuertes que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Planta",
+      "imagen": "114"
+    },
+    {
+      "id": 115,
+      "nombre": "Kangaskhan",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una fuerza física increíble que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "115"
+    },
+    {
+      "id": 116,
+      "nombre": "Horsea",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Agua",
+      "imagen": "116"
+    },
+    {
+      "id": 117,
+      "nombre": "Seadra",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una piel muy dura que puede utilizar para protegerse.",
+      "tipo": "Agua",
+      "imagen": "117"
+    },
+    {
+      "id": 118,
+      "nombre": "Goldeen",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una aleta en la espalda que puede utilizar para nadar a gran velocidad.",
+      "tipo": "Agua",
+      "imagen": "118"
+    },
+    {
+      "id": 119,
+      "nombre": "Seaking",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una aleta en la espalda que puede utilizar para nadar a gran velocidad.",
+      "tipo": "Agua",
+      "imagen": "119"
+    },
+    {
+      "id": 120,
+      "nombre": "Staryu",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de regenerar sus extremidades si son cortadas.",
+      "tipo": "Agua",
+      "imagen": "120"
+    },
+    {
+      "id": 121,
+      "nombre": "Starmie",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de regenerar sus extremidades si son cortadas.",
+      "tipo": "Agua/Psíquico",
+      "imagen": "121"
+    },
+    {
+      "id": 122,
+      "nombre": "Mr. Mime",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de crear barreras psíquicas para protegerse.",
+      "tipo": "Psíquico/Hada",
+      "imagen": "122"
+    },
+    {
+      "id": 123,
+      "nombre": "Scyther",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas cuchillas muy afiladas que puede utilizar para cortar a sus enemigos.",
+      "tipo": "Bicho/Volador",
+      "imagen": "123"
+    },
+    {
+      "id": 124,
+      "nombre": "Jynx",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de hipnotizar a sus enemigos con sus movimientos gráciles.",
+      "tipo": "Hielo/Psíquico",
+      "imagen": "124"
+    },
+    {
+      "id": 125,
+      "nombre": "Electabuzz",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar electricidad y lanzar rayos desde su cuerpo.",
+      "tipo": "Eléctrico",
+      "imagen": "125"
+    },
+    {
+      "id": 126,
+      "nombre": "Magmar",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar fuego y lanzar llamas desde su boca.",
+      "tipo": "Fuego",
+      "imagen": "126"
+    },
+    {
+      "id": 127,
+      "nombre": "Pinsir",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene unas pinzas muy fuertes que puede utilizar para cortar objetos muy duros.",
+      "tipo": "Bicho",
+      "imagen": "127"
+    },
+    {
+      "id": 128,
+      "nombre": "Tauros",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una fuerza física increíble que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "128"
+    },
+    {
+      "id": 129,
+      "nombre": "Magikarp",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de nadar a gran velocidad para escapar de sus enemigos.",
+      "tipo": "Agua",
+      "imagen": "129"
+    },
+    {
+      "id": 130,
+      "nombre": "Gyarados",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de volar y lanzar llamas desde su boca.",
+      "tipo": "Agua/Volador",
+      "imagen": "130"
+    },
+    {
+      "id": 131,
+      "nombre": "Lapras",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de nadar a gran velocidad y resistir temperaturas extremas.",
+      "tipo": "Agua/Hielo",
+      "imagen": "131"
+    },
+    {
+      "id": 132,
+      "nombre": "Ditto",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de transformarse en cualquier Pokémon que haya visto antes.",
+      "tipo": "Normal",
+      "imagen": "132"
+    },
+    {
+      "id": 133,
+      "nombre": "Eevee",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de evolucionar en diferentes formas dependiendo de la situación.",
+      "tipo": "Normal",
+      "imagen": "133"
+    },
+    {
+      "id": 134,
+      "nombre": "Vaporeon",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar agua a partir de la humedad del aire.",
+      "tipo": "Agua",
+      "imagen": "134"
+    },
+    {
+      "id": 135,
+      "nombre": "Jolteon",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar electricidad a partir de la energía estática.",
+      "tipo": "Eléctrico",
+      "imagen": "135"
+    },
+    {
+      "id": 136,
+      "nombre": "Flareon",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar llamas a partir de la temperatura corporal.",
+      "tipo": "Fuego",
+      "imagen": "136"
+    },
+    {
+      "id": 137,
+      "nombre": "Porygon",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de cambiar su forma a voluntad.",
+      "tipo": "Normal",
+      "imagen": "137"
+    },
+    {
+      "id": 138,
+      "nombre": "Omanyte",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una concha muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Agua",
+      "imagen": "138"
+    },
+    {
+      "id": 139,
+      "nombre": "Omastar",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una concha muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Agua",
+      "imagen": "139"
+    },
+    {
+      "id": 140,
+      "nombre": "Kabuto",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene una concha muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Agua",
+      "imagen": "140"
+    },
+    {
+      "id": 141,
+      "nombre": "Kabutops",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una concha muy dura que puede utilizar para protegerse.",
+      "tipo": "Roca/Agua",
+      "imagen": "141"
+    },
+    {
+      "id": 142,
+      "nombre": "Aerodactyl",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de volar a gran velocidad y lanzar llamas desde su boca.",
+      "tipo": "Roca/Volador",
+      "imagen": "142"
+    },
+    {
+      "id": 143,
+      "nombre": "Snorlax",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene una fuerza física increíble que puede utilizar para atacar a sus enemigos.",
+      "tipo": "Normal",
+      "imagen": "143"
+    },
+    {
+      "id": 144,
+      "nombre": "Articuno",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de congelar el aire y crear tormentas de nieve.",
+      "tipo": "Hielo/Volador",
+      "imagen": "144"
+    },
+    {
+      "id": 145,
+      "nombre": "Zapdos",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar electricidad y lanzar rayos desde su cuerpo.",
+      "tipo": "Eléctrico/Volador",
+      "imagen": "145"
+    },
+    {
+      "id": 146,
+      "nombre": "Moltres",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de generar fuego y lanzar llamas desde su boca.",
+      "tipo": "Fuego/Volador",
+      "imagen": "146"
+    },
+    {
+      "id": 147,
+      "nombre": "Dratini",
+      "descripcion": "Es muy pequeño y apenas se le ve. Tiene la capacidad de nadar a gran velocidad y resistir la presión del agua en las profundidades.",
+      "tipo": "Dragón",
+      "imagen": "147"
+    },
+    {
+      "id": 148,
+      "nombre": "Dragonair",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de nadar a gran velocidad y resistir la presión del agua en las profundidades.",
+      "tipo": "Dragón",
+      "imagen": "148"
+    },
+    {
+      "id": 149,
+      "nombre": "Dragonite",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de volar a gran velocidad y lanzar llamas desde su boca.",
+      "tipo": "Dragón/Volador",
+      "imagen": "149"
+    },
+    {
+      "id": 150,
+      "nombre": "Mewtwo",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de leer la mente de los demás y teletransportarse a otros lugares.",
+      "tipo": "Psíquico",
+      "imagen": "150"
+    },
+    {
+      "id": 151,
+      "nombre": "Mew",
+      "descripcion": "Es muy poderoso y temido por muchos entrenadores. Tiene la capacidad de leer la mente de los demás y teletransportarse a otros lugares.",
+      "tipo": "Psíquico",
+      "imagen": "151"
+    }
+  ]
+}
